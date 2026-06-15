@@ -1,9 +1,6 @@
 # David Hernández — Data Analytics Portfolio
 
-Data Analyst with 10+ years in IT operations and quality management — building end-to-end analytical solutions from raw data to deployed
-dashboards and ML applications.
-
-Personal portfolio showcasing end-to-end data analytics and machine learning projects — from data wrangling and exploratory analysis to deployed dashboards and interactive applications.
+Data Analyst with 10+ years in IT operations and quality management — building end-to-end analytical solutions from raw data to deployed dashboards and ML applications, across projects spanning predictive modeling, machine learning products, data visualization, and engagement analytics.
 
 🌐 **[View the live portfolio → davherdel.github.io](https://davherdel.github.io/)**
 
