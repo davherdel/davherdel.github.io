@@ -1,8 +1,11 @@
 # David Hernández — Data Analytics Portfolio
 
-🌐 **[View the live portfolio → davherdel.github.io](https://davherdel.github.io/)**
+Data Analyst with 10+ years in IT operations and quality management — building end-to-end analytical solutions from raw data to deployed
+dashboards and ML applications.
 
 Personal portfolio showcasing end-to-end data analytics and machine learning projects — from data wrangling and exploratory analysis to deployed dashboards and interactive applications.
+
+🌐 **[View the live portfolio → davherdel.github.io](https://davherdel.github.io/)**
 
 **Data Analyst** · Lisbon, Portugal · `Python` · `SQL` · `Power BI` · `Tableau` · `Machine Learning`
 
